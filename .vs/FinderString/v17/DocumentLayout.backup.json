@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\FinderString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|h:\\finderstring\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\searchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:searchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\searchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:searchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\unificationsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:unificationsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\contractionsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:contractionsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\contradictionsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:contradictionsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|H:\\FinderString\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D7C16F43-2148-4D28-8DA7-6CFD3319334F}|FinderString.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\FinderString\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\FinderString\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T04:05:28.469Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchManager.cs",
+              "DocumentMoniker": "H:\\FinderString\\SearchManager.cs",
+              "RelativeDocumentMoniker": "SearchManager.cs",
+              "ToolTip": "H:\\FinderString\\SearchManager.cs",
+              "RelativeToolTip": "SearchManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:53:47.611Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "H:\\FinderString\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "H:\\FinderString\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:15:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchEngine.cs",
+              "DocumentMoniker": "H:\\FinderString\\SearchEngine.cs",
+              "RelativeDocumentMoniker": "SearchEngine.cs",
+              "ToolTip": "H:\\FinderString\\SearchEngine.cs",
+              "RelativeToolTip": "SearchEngine.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADgvywAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:34:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "H:\\FinderString\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\FinderString\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:52:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "H:\\FinderString\\AppConfig.cs",
+              "RelativeDocumentMoniker": "AppConfig.cs",
+              "ToolTip": "H:\\FinderString\\AppConfig.cs",
+              "RelativeToolTip": "AppConfig.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:12:55.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\FinderString\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "H:\\FinderString\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-24T16:11:43.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\FinderString\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\FinderString\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T04:39:17.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\FinderString\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "H:\\FinderString\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADgv1kAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:15:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnificationSearch.cs",
+              "DocumentMoniker": "H:\\FinderString\\UnificationSearch.cs",
+              "RelativeDocumentMoniker": "UnificationSearch.cs",
+              "ToolTip": "H:\\FinderString\\UnificationSearch.cs",
+              "RelativeToolTip": "UnificationSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:53:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContractionSearch.cs",
+              "DocumentMoniker": "H:\\FinderString\\ContractionSearch.cs",
+              "RelativeDocumentMoniker": "ContractionSearch.cs",
+              "ToolTip": "H:\\FinderString\\ContractionSearch.cs",
+              "RelativeToolTip": "ContractionSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:44:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContradictionSearch.cs",
+              "DocumentMoniker": "H:\\FinderString\\ContradictionSearch.cs",
+              "RelativeDocumentMoniker": "ContradictionSearch.cs",
+              "ToolTip": "H:\\FinderString\\ContradictionSearch.cs",
+              "RelativeToolTip": "ContradictionSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:52:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "H:\\FinderString\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "H:\\FinderString\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-22T09:33:04.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

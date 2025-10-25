@@ -13,7 +13,6 @@ namespace FinderString
         private System.Windows.Forms.Button btnClearExtensions;
         private System.Windows.Forms.ListBox lstExcludedFolders;
         private System.Windows.Forms.Button btnAddFolder;
-        private System.Windows.Forms.PictureBox picLogo;
 
         protected override void Dispose(bool disposing)
         {
@@ -34,16 +33,7 @@ namespace FinderString
             this.btnClearExtensions = new System.Windows.Forms.Button();
             this.lstExcludedFolders = new System.Windows.Forms.ListBox();
             this.btnAddFolder = new System.Windows.Forms.Button();
-            this.picLogo = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).BeginInit();
             this.SuspendLayout();
-
-            // picLogo
-            this.picLogo.Location = new System.Drawing.Point(620, 10);
-            this.picLogo.Size = new System.Drawing.Size(60, 40);
-            this.picLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picLogo.Image = Properties.Resources.WLOLogo;
-            this.Controls.Add(this.picLogo);
 
             // txtRootFolder
             this.txtRootFolder.Location = new System.Drawing.Point(20, 20);
@@ -54,14 +44,14 @@ namespace FinderString
             this.txtKeyword.Size = new System.Drawing.Size(400, 23);
 
             // btnSearch
-            this.btnSearch.Location = new System.Drawing.Point(440, 60);
+            this.btnSearch.Location = new System.Drawing.Point(440, 20);
             this.btnSearch.Size = new System.Drawing.Size(100, 23);
             this.btnSearch.Text = "검색";
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
 
             // btnSaveResults
-            this.btnSaveResults.Location = new System.Drawing.Point(560, 60);
-            this.btnSaveResults.Size = new System.Drawing.Size(120, 23);
+            this.btnSaveResults.Location = new System.Drawing.Point(440, 60);
+            this.btnSaveResults.Size = new System.Drawing.Size(100, 23);
             this.btnSaveResults.Text = "결과 저장";
             this.btnSaveResults.Click += new System.EventHandler(this.btnSaveResults_Click);
 
@@ -70,17 +60,17 @@ namespace FinderString
             this.lstResults.Size = new System.Drawing.Size(520, 200);
 
             // clbExtensions
-            this.clbExtensions.Location = new System.Drawing.Point(560, 100);
+            this.clbExtensions.Location = new System.Drawing.Point(560, 20);
             this.clbExtensions.Size = new System.Drawing.Size(120, 100);
 
             // btnSelectAllExtensions
-            this.btnSelectAllExtensions.Location = new System.Drawing.Point(560, 210);
+            this.btnSelectAllExtensions.Location = new System.Drawing.Point(560, 130);
             this.btnSelectAllExtensions.Size = new System.Drawing.Size(120, 23);
             this.btnSelectAllExtensions.Text = "모두 선택";
             this.btnSelectAllExtensions.Click += new System.EventHandler(this.btnSelectAllExtensions_Click);
 
             // btnClearExtensions
-            this.btnClearExtensions.Location = new System.Drawing.Point(560, 240);
+            this.btnClearExtensions.Location = new System.Drawing.Point(560, 160);
             this.btnClearExtensions.Size = new System.Drawing.Size(120, 23);
             this.btnClearExtensions.Text = "선택 해제";
             this.btnClearExtensions.Click += new System.EventHandler(this.btnClearExtensions_Click);
@@ -108,9 +98,7 @@ namespace FinderString
             this.Controls.Add(this.btnClearExtensions);
             this.Controls.Add(this.lstExcludedFolders);
             this.Controls.Add(this.btnAddFolder);
-            this.Controls.Add(this.picLogo);
             this.Text = "FinderString - 문자열 검색기";
-            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
         }
